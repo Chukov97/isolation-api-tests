@@ -1,0 +1,28 @@
+{
+  "cards": [
+    {
+      "id": "22222222-bbbb-4ccc-8ddd-333333333333",
+      "pin": "5678",
+      "cvv": "321",
+      "type": "CARD_TYPE_PHYSICAL",
+      "status": "CARD_STATUS_ACTIVE",
+      "accountId": "bbbbbbbb-cccc-4ddd-8eee-ffffffffffff",
+      "cardNumber": "4276123456789012",
+      "cardHolder": "DMITRY SOKOLOV",
+      "expiryDate": "2028-09-30",
+      "paymentSystem": "CARD_PAYMENT_SYSTEM_VISA"
+    },
+    {
+      "id": "44444444-eeee-4fff-8aaa-555555555555",
+      "pin": "4321",
+      "cvv": "654",
+      "type": "CARD_TYPE_VIRTUAL",
+      "status": "CARD_STATUS_ACTIVE",
+      "accountId": "bbbbbbbb-cccc-4ddd-8eee-ffffffffffff",
+      "cardNumber": "5469550000000001",
+      "cardHolder": "DMITRY SOKOLOV",
+      "expiryDate": "2027-03-31",
+      "paymentSystem": "CARD_PAYMENT_SYSTEM_MASTERCARD"
+    }
+  ]
+}
